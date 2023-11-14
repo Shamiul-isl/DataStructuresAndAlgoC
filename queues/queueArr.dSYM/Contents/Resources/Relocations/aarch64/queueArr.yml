@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samislam/MSCS/UdemyCppDSA/queues/queueArr'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __ZN5Queue7enqueueEi, symObjAddr: 0x0, symBinAddr: 0x100003CD4, symSize: 0x78 }
+  - { offsetInCU: 0x2D05, offset: 0x2D05, size: 0x8, addend: 0x0, symName: __ZN5Queue7enqueueEi, symObjAddr: 0x0, symBinAddr: 0x100003CD4, symSize: 0x78 }
+  - { offsetInCU: 0x2D38, offset: 0x2D38, size: 0x8, addend: 0x0, symName: __ZN5Queue7dequeueEv, symObjAddr: 0x78, symBinAddr: 0x100003D4C, symSize: 0x80 }
+  - { offsetInCU: 0x2D6B, offset: 0x2D6B, size: 0x8, addend: 0x0, symName: __ZN5Queue7DisplayEv, symObjAddr: 0xF8, symBinAddr: 0x100003DCC, symSize: 0x98 }
+  - { offsetInCU: 0x2DAC, offset: 0x2DAC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x190, symBinAddr: 0x100003E64, symSize: 0x64 }
+  - { offsetInCU: 0x2DD4, offset: 0x2DD4, size: 0x8, addend: 0x0, symName: __ZN5QueueC1Ei, symObjAddr: 0x1F4, symBinAddr: 0x100003EC8, symSize: 0x34 }
+  - { offsetInCU: 0x2E0A, offset: 0x2E0A, size: 0x8, addend: 0x0, symName: __ZN5QueueC2Ei, symObjAddr: 0x228, symBinAddr: 0x100003EFC, symSize: 0x70 }
+...
