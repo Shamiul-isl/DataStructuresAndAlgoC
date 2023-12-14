@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samislam/MSCS/UdemyCppDSA/recursion/towerofhanoi'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z3TOHiiii, symObjAddr: 0x0, symBinAddr: 0x100003E1C, symSize: 0x98 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z3TOHiiii, symObjAddr: 0x0, symBinAddr: 0x100003E1C, symSize: 0x98 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: __Z1fRii, symObjAddr: 0x98, symBinAddr: 0x100003EB4, symSize: 0x84 }
+  - { offsetInCU: 0xCD, offset: 0xCD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x11C, symBinAddr: 0x100003F38, symSize: 0x54 }
+...
